@@ -1,0 +1,4 @@
+*.pyc
+*.log
+.botoenv
+__pycache__
